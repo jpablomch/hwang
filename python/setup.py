@@ -35,8 +35,9 @@ module1 = Extension(
 
 setup(
     name='hwang',
-    version='0.5.1',
-    url='https://github.com/scanner-research/hwang',
+    version='0.5.2',
+    # url='https://github.com/scanner-research/hwang',
+    url='https://github.com/jpablomch/hwang',
     author='Fait Poms',
     author_email='fpoms@cs.cmu.edu',
     packages=['hwang'],
