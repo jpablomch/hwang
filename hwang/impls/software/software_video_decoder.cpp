@@ -15,7 +15,6 @@
 
 #include "hwang/impls/software/software_video_decoder.h"
 #include "hwang/util/h264.h"
-#include <functional>
 
 extern "C" {
 #include "libavcodec/avcodec.h"
